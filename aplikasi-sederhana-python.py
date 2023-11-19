@@ -1,7 +1,7 @@
 import hashlib
 import os
 import json
-import getpass
+import getpass #menampilkan passwords
 
 # Fungsi untuk membersihkan layar
 def clear_screen():
@@ -117,9 +117,6 @@ def show_book_list():
 
 # Fungsi untuk meminjam buku
 def borrow_book():
-    # Di sini Anda dapat menambahkan logika untuk meminjam buku dan
-    # menyimpan data peminjaman ke dalam file JSON atau database.
-    # Contoh sederhana:
     book_id = input("Masukkan ID buku yang ingin dipinjam: ")
     return_date = input("Masukkan tanggal pengembalian (YYYY-MM-DD): ")
 
