@@ -1,2 +1,5 @@
 PROJECT-KULIAH
 - Konsisten untuk membuat program website selama track record semester
+#tambahan baru rencana project
+-kolaborasi dengan banyak teman kampus
+-membuat website program untuk tugas mata kuliah Enterpreunership
