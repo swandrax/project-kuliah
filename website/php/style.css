@@ -1,0 +1,13 @@
+/* style.css */
+
+body {
+  padding-top: 56px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.btn-logout {
+  margin-left: 10px;
+}
